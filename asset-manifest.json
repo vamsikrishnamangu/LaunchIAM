@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LaunchIAM/static/css/main.7ee11cfc.css",
+    "main.js": "/LaunchIAM/static/js/main.b50542de.js",
+    "static/js/787.4d2fb98b.chunk.js": "/LaunchIAM/static/js/787.4d2fb98b.chunk.js",
+    "index.html": "/LaunchIAM/index.html",
+    "main.7ee11cfc.css.map": "/LaunchIAM/static/css/main.7ee11cfc.css.map",
+    "main.b50542de.js.map": "/LaunchIAM/static/js/main.b50542de.js.map",
+    "787.4d2fb98b.chunk.js.map": "/LaunchIAM/static/js/787.4d2fb98b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee11cfc.css",
+    "static/js/main.b50542de.js"
+  ]
+}
